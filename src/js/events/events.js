@@ -66,6 +66,7 @@ define([], function() {
         JWPLAYER_CONTROLS: 'controls',
         JWPLAYER_FULLSCREEN: 'fullscreen',
         JWPLAYER_RESIZE: 'resize',
+        JWPLAYER_LOAD_PLAYLIST: 'loadPlaylist',
         JWPLAYER_PLAYLIST_ITEM: 'playlistItem',
         JWPLAYER_PLAYLIST_LOADED: 'playlist',
         JWPLAYER_AUDIO_TRACKS: 'audioTracks',
